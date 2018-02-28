@@ -1,0 +1,3 @@
+<footer>
+      <small>Made with ¦ in Budapest ©2018 | Icons by <a href="http://www.flaticon.com/authors/becris">Becris</a> (<a href="https://creativecommons.org/licenses/by/3.0/">CC 3.0 BY</a>)</small>
+    </footer>

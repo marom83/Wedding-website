@@ -1,0 +1,83 @@
+
+  <main>
+    <section class="location">
+      <h2>Locations</h2>
+      <div class="second">
+        <h3>Ceremony</h3>
+        <img src="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-ceremony.png" alt="ring">
+        <div class="row">St. Nicholas Church</div>
+        <div class="row">2 Trinity Square, Budapest</div>
+      </div>
+      <div class="second">
+        <h3>Photos</h3>
+        <img src="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-photoshoot.png" alt="camera">
+        <div class="row">Liberty Bastion</div>
+        <div class="row">23 Wisdom Road, Budapest</div>
+      </div>
+      <div class="second">
+        <h3>Party</h3>
+        <img src=" https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-party.png" alt="party">
+        <div class="row">Heaven Lounge</div>
+        <div class="row">14 Fairy Street, Budapest</div>
+      </div>
+    </section>
+    <section class="program">
+      <h2>Program</h2>
+        <div class="third">
+          <span>"It's going to be somehow, that's for sure."</span>
+          <ul>
+            <li>13:45 – Wedding ceremony</li>
+            <li>14:30 – Photos</li>
+            <li>16:00 – Cocktails</li>
+            <li>18:00 – Dinner</li>
+            <li>22:00 – Cake</li>
+            <li>... - 4:00 – Dance until dawn</li>
+          </ul>
+        </div>
+   </section>
+    <section class="gift">
+      <h2>Gifts</h2>
+      <div class="fourth">
+        <span>The greatest gift for us is to have you there.</span>
+        <img src="https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-gifts.png" alt="gift">
+        <span>Please, just bring yourself and have fun with us.</span>
+      </div>
+    </section>
+    <section class="question">
+      <h2>Questions & Answers</h2>
+      <div class="fifth">
+        <h3>Travel and accomodations</h3>
+        <span class="question">Will there be some kind of organized transfer?</span>
+        <span class="answe">No, we'll just meet at the church at 13:15.</span>
+        <span class="question">Where can I park?</span>
+        <span class="answer">Parking is free on the weekends in the 1st district. The locations are close to each other so you won't need your car.</span>
+        <span class="question">How can I get home at night?</span>
+        <span class="answer">The 916 bus is in service all night at the castle and it hits every major traffic hub in the city.</span>
+      </div>
+      <div>
+        <h2>Food and festivities</h2>
+        <span class="question">I'd like to do some kind of surprise for you guys at the party. To whom should I talk about this?</span>
+        <span class="answer">Discuss it with Abigail Smith. Just drop her an email at <a href="mailto:abigail@awesomemail.hu">abigail@awesomemail.com</a>.</span>
+        <span class="question"> What should I wear? Do you have a dress code?</span>
+        <span class="answer">Wear what's comfortable to you. If it helps <a href="#" target="_blank">smart casual</a> / <a href="#" target="_blank">business casual</a> for the ladies and <a href="#" target="_blank">smart casual</a> / <a href="#" target="_blank">informal</a> for the gentlemen are perfect options.</span>
+        <span class="question">I would like some kind of special food (gluten-free, lactose-free, vegan etc.)</span>
+        <span class="answer">Drop us a line <a href="mailto:zoeandalex@awesomemail.com">here</a> and we'll find a way.</span>
+      </div>
+      <div>
+        <h2>Other small stuff</h2>
+        <span class="question">I have a problem / question on the wedding day. With whom can I speak?</span>
+        <span class="answer">Jared Wright on this number: <a href="+36 30 000 000">+36 30 000 0000</a>.</span>
+        <span class="question">Can we bring kids?</span>
+        <span class="answer">Sure! We planned a whole toy / sweets corner for them.</span>
+        <span class="question">How do you feel about dogs? Can I bring mine?</span>
+        <span class="answer">We love dogs and you can absolutely bring yours. The Heaven Lounge is a dog-friendly place.</span>
+      </div>
+    </section>
+    <section class="contact">
+      <h2>Contact</h2>
+      <span>If you have any questions feel free to call / write us.</span>
+      <span>Phone:<a href="+36 30 000 000">+36 30 000 000</a>(Zoe)/<a href="+36 30 000 000">+36 30 000 000</a>(Alex)</span>
+      <span>Email:<a href="mailto:zoeandalex@awesomemail.com">zoeandalex@awesomemail.com</a></span>
+    </section>
+  </main>
+    

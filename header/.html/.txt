@@ -1,0 +1,9 @@
+<header class="cover">
+    <div class="main-wrapper">
+      <div class="wrapper">
+        <div class="tagline">We're getting married!</div>
+        <h1 class="headline">Zoé & Alex</h1>
+        <span class="date"> August 1,2018 </span>
+      </div>
+    </div>
+  </header>
